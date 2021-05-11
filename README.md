@@ -50,5 +50,5 @@ I've not yet explored unit testing within Go yet so I may look to add testing su
 I will be writing my experience learning Go and general thougths on the Python Challenge at some point in the near future.
 
 ## Known issues:
- * Challenge 13 (XML RPC) will print an warning message to stdout about the format of. it doesnt impact solving the challenge and can be ignored. 
+ * Challenge 13 (XML RPC) will print an warning message to stdout about the format of the response sent by the PythonChallenge API. it doesnt impact solving the challenge and can be ignored. 
 
